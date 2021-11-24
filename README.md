@@ -14,6 +14,7 @@
   
   
 🎯 Sobre
+
 O site foi realizado na proposta de um projeto do Origamid no curso de Bootstrap. O objetivo foi criar um Site, adicionando novas funcionalidades e a criatividade utilizando o Bootstrap.
 
 Foi implementado na página inicial um carousel e informações nos cards. Slides com JS, e Forms.
@@ -21,9 +22,13 @@ Foi implementado na página inicial um carousel e informações nos cards. Slide
 A seguintes ferramentas e tecnologias foram utilizadas nesse projeto:
 
 Bootstrap
+
 JavaScript
+
 HTML5
+
 CSS3
+
 SASS
  
 
